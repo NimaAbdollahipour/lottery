@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/numSelector/static/css/main.58f16884.css",
-    "main.js": "/numSelector/static/js/main.fb0f414d.js",
-    "index.html": "/numSelector/index.html",
-    "main.58f16884.css.map": "/numSelector/static/css/main.58f16884.css.map",
-    "main.fb0f414d.js.map": "/numSelector/static/js/main.fb0f414d.js.map"
+    "main.css": "/lottery/static/css/main.58f16884.css",
+    "main.js": "/lottery/static/js/main.fb0f414d.js",
+    "index.html": "/lottery/index.html",
+    "main.58f16884.css.map": "/lottery/static/css/main.58f16884.css.map",
+    "main.fb0f414d.js.map": "/lottery/static/js/main.fb0f414d.js.map"
   },
   "entrypoints": [
     "static/css/main.58f16884.css",
